@@ -3544,3 +3544,8 @@ p.bio {
 .sponsors a {
     border: none;
 }
+
+.sponsor__link {
+    font-size: 36px;
+    font-weight:bold;
+}
